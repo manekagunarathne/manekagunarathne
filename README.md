@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**manekagunarathne/manekagunarathne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Maneka**, a Computer Systems Engineering undergraduate.
 
-Here are some ideas to get you started:
+I enjoy understanding how systems behave rather than just how they look. When something interests me, I tend to model it, simulate it, break it, and then try to make it more efficient or reliable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A lot of my work revolves around **system and network simulations**, including projects done in **MATLAB**, where the goal is to analyze performance, constraints, and real-world behavior rather than build polished interfaces.
+
+I also work on full projects where **web development** plays a supporting role — mainly as a way to interact with the system — while my main focus stays on **architecture, logic, and infrastructure**.
+
+In my current project, I’m closely involved with the **DevOps side of things**: managing repositories, working with branch workflows, keeping builds consistent, and making sure different parts of the system integrate smoothly.
+
+You’ll find a mix of academic, experimental, and practical projects pinned here — most of them built to learn how systems actually work under the hood.
+
+**Fun facts:**
+
+* I enjoy late-night debugging more than design mockups
+* I like clean desks and even cleaner repositories
+* I usually learn best by building small experiments and breaking them
+
+
