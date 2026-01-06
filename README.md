@@ -12,10 +12,5 @@ In my current project, I’m closely involved with the **DevOps side of things**
 
 You’ll find a mix of academic, experimental, and practical projects pinned here — most of them built to learn how systems actually work under the hood.
 
-**Fun facts:**
-
-* I enjoy late-night debugging more than design mockups
-* I like clean desks and even cleaner repositories
-* I usually learn best by building small experiments and breaking them
 
 
